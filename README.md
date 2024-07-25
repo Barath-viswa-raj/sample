@@ -6,7 +6,6 @@ Connect and manage multiple social media accounts (e.g., Facebook, Twitter, Inst
 Schedule and automate posts across different platforms.
 Manage followers and interactions.
 Content Calendar:
-
 Visualize and plan content with a calendar view.
 Track upcoming posts and campaigns.
 Collaborate with team members on content creation and scheduling.
